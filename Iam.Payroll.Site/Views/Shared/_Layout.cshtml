@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("API", "Index", "Help", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Attendances", "Index", "Attendances", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Departments", "Index", "Departments", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Holidays", "Index", "Holidays", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("People", "Index", "People", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Types", "Index", "Types", new { area = "" }, null)</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <link href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="~/Ng/Script/People.js"></script>
+    <script src="~/Ng/Script/Attendances.js"></script>
+    <script src="~/Ng/Script/Departments.js"></script>
+    <script src="../../Scripts/angular.js"></script>
+    <script src="../../Scripts/angular.min.js"></script>
+    <script src="../../Scripts/jquery-3.2.1.js"></script>
+    <script type='text/javascript'>
+         $(function(){
+      $('.date-picker').datepicker();
+    })
+    </script>
+</body>
+</html>

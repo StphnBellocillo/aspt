@@ -1,0 +1,41 @@
+﻿@using System.Linq
+@model IEnumerable<Iam.Payroll.Common.HolidayEx>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Date
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            TypeName
+        </th>
+        <th></th>
+    </tr>
+    <tbody id="HideRow" style="display:none;">
+        <tr class="ListRow">
+            <td class="Date"></td>
+            <td class="Name"></td>
+            <td class="TypeName"></td>
+            <td>
+                <a href="" class="edit">Edit</a> |
+                <a href="" class="details">Details</a> |
+                <a href="" class="delete">Delete</a> |
+            </td>
+        </tr>
+    </tbody>
+
+    <tbody id="ShowRow"></tbody>
+
+</table>

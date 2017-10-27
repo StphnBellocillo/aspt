@@ -1,0 +1,19 @@
+﻿<a href="#/holidays/edit/0" class="Add">Create</a>
+<form ng-submit="save()" method="post">
+    <div class="form-group">
+        <label>Date</label>
+        <input type="text" class="form-control date-picker" id="Date" name="Date" ng-model="formData.Date" datepicker-popup="dd-MMM-yyyy" is-open="Opened1" ng-click="Opened1=true" placeholder="Enter Date" readonly>
+         <label>Name</label>
+        <input type="text" class="form-control" ng-model="formData.Name"  placeholder="Name" />
+        <label>Type Name</label>
+        <select class="form-control" ng-options="Type.Id as Type.Name for Type in Types" ng-model="formData.TypeId"></select>
+    </div>
+    <div class="col-md-10">
+        <input type="submit" id="save" value="Create" class="btn btn-success" />
+        <a href="#/holidays/list" class="back">Back</a>
+    </div>
+    <div id="data-container">
+    </div>
+</form>
+
+  

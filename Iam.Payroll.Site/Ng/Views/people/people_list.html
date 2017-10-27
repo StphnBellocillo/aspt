@@ -1,0 +1,45 @@
+﻿
+<div>
+    <a href="#/people/edit/0" class="Add">Create new Person</a>
+    <form class="form-inline" ng-submit="load()">
+        <div class="form-group col-md-3 inline_col">
+            <input autocomplete="off" type="text" ng-model="filter.searchText" class="form-control" placeholder="Enter Check book name..." name="s" />
+        </div>
+        <button type="submit" class="btn btn-success">
+            <i class="linecons-search"></i>  Search
+        </button>
+    </form>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            Gender
+        </th>
+        <th>
+            Department Name
+        </th>
+        <th></th>
+    </tr>
+    <tbody ng-repeat="person in data | orderBy:orderByField:reverseSort">
+        <tr>
+            <td>{{person.FirstName}}</td>
+            <td>{{person.LastName}}</td>
+            <td>{{person.Gender}}</td>
+            <td>{{person.DepartmentName}}</td>
+            <td>
+                <a href="#/people/edit/{{person .Id}}" class="edit">Edit</a> |
+                <a href="javascript:void(0);" ng-click="deleteModal(person.Id)" class="delete">
+                    <i class="fa fa-trash"></i>  Delete
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<label ng-if="data.length=== 0">No Record</label>
+<pagination ng-if="data.length > 0" total-items="TotalItems" ng-model="filter.CurrentPage" items-per-page="filter.PageSize" max-size="10" class="pagination-sm" boundary-links="true" ng-change="changePage()"></pagination>

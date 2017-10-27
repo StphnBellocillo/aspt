@@ -1,0 +1,18 @@
+﻿<a href="#/attendances/edit/0" class="Add">Create</a>
+<form ng-submit="save()" method="post">
+    <div class="form-group">
+        <label>Person Name</label>
+        <select class="form-control" ng-options="Person.Id as Person.FirstName for Person in People" ng-model="formData.PersonId"></select>
+        <label>Time In</label>
+        <input type="text" class="form-control date-picker" id="TimeIn" name="TimeIn" ng-model="formData.TimeIn" datepicker-popup="dd-MMM-yyyy" is-open="Opened1" ng-click="Opened1=true" placeholder="Enter Date" readonly>
+        <label>Time Out</label>
+        <input type="datetime" class="form-control date-picker" id="TimeOut" name="TimeOut" ng-model="formData.TimeOut" datepicker-popup="dd-MMM-yyyy" is-open="Opened2" ng-click="Opened2=true" placeholder="Enter Date" readonly>
+    </div>
+    <div class="col-md-10">
+        <input type="submit" id="save" value="Create"class="btn btn-success" />
+        <a href="#/attendances/list" class="back">Back</a>
+    </div>
+    <div id="data-container">
+    </div>
+</form>
+

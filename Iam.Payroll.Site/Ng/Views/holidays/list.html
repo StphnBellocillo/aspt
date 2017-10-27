@@ -1,0 +1,48 @@
+﻿<div>
+    <a href="#/holidays/edit/0" class="Add">Create new Holiday</a>
+    <form class="form-inline">
+        <div class="form-group col-md-2 inline_col">
+            <div class="input-append date date-picker col-sm-11 m-left-reset" style="padding-left:0px !important;">
+                <div class="input-group-btn">
+                    <input type="text" placeholder="Enter Date From" class="form-control date-picker col-sm-4" id="DueDate" name="duedate" ng-model="filter.calendar" datepicker-popup="dd-MMM-yyyy" is-open="Opened1" movenextinput ng-click="Opened1=true" readonly>
+                    <button type="button" class="btn btn-default" ng-click="Opened1=true;$event.stopPropagation();">
+                        <i class="glyphicon glyphicon-calendar"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="form-group col-md-2 inline_col">
+            <input autocomplete="off" class="form-control input-md" ng-model="filter.searchText" type="text" placeholder="Enter Keyword here..." />
+        </div>
+        <button type="submit" class="btn btn-success" ng-click="load()">
+            <i class="linecons-search"></i>  Search
+        </button>
+    </form>
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Date
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            TypeName
+        </th>
+        <th></th>
+    </tr>
+    <tbody ng-repeat="holiday in data | orderBy:orderByField:reverseSort">
+        <tr>
+            <td>{{holiday.Date | date: 'MM/dd/yyyy'}}</td>
+            <td>{{holiday.Name}}</td>
+            <td>{{holiday.TypeName}}</td>
+            <td>
+                <a href="#/holidays/edit/{{holiday .Id}}" class="edit">Edit</a>|
+                <a href="" class="delete">Delete</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<label ng-if="data.length=== 0">No Record</label>
+<pagination ng-if="data.length > 0" total-items="TotalItems" ng-model="filter.CurrentPage" items-per-page="filter.PageSize" max-size="10" class="pagination-sm" boundary-links="true" ng-change="changePage()"></pagination>

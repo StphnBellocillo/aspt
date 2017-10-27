@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Iam.Payroll.Common.PersonEx>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            DepartmentName
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            Gender
+        </th>
+        <th></th>
+    </tr>
+    <tbody id="HideRow" style="display:none;">
+        <tr class="ListRow">
+            <td class="DepartmentName"></td>
+            <td class="FirstName"></td>
+            <td class="LastName"></td>
+            <td class="Gender"></td>
+            <td>
+                <a href="" class="edit">Edit</a> |
+                <a href="" class="details">Details</a> |
+                <a href="" class="delete">Delete</a> |
+            </td>
+        </tr>
+   </tbody>
+
+    <tbody id="ShowRow"></tbody>
+
+</table>

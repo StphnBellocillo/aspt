@@ -1,0 +1,21 @@
+﻿<a href="#/people/edit/0" class="Add">Create</a>
+<form ng-submit="save()" method="post">
+    <div class="form-group">
+        <label>First Name</label>
+        <input type="text" class="form-control" ng-model="formData.FirstName" placeholder="First Name">
+        <label>Last Name</label>
+        <input type="text" class="form-control" ng-model="formData.LastName" placeholder="Last Name">
+        <label>Gender</label>
+        <input type="text" class="form-control" ng-model="formData.Gender" placeholder="Gender">
+        <label>Department Name</label>
+        <select class="form-control" ng-options="Department.Id as Department.Name  for Department in Departments" ng-model="formData.DepartmentId"></select>
+    </div>
+    <div class="col-md-10">
+        <input type="submit" id="save" value="Create" class="btn btn-success" />
+        <a href="#/people/list" class="back">Back</a>
+    </div>
+    <div id="data-container">
+    </div>
+</form>
+
+

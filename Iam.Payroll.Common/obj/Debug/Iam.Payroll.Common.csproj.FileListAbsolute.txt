@@ -1,0 +1,80 @@
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll.config
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\WebApi\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll.config
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\angularjs\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll.config
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\today\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll.config
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\10122017\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll.config
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\Updates - Training\October Daily Updates\October 13,2017\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\System.Linq.Dynamic.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.dll
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\obj\Debug\Iam.Payroll.Common.pdb
+D:\Visual Studio Projects\date search\Iam.Payroll.Site\asptraining\Iam.Payroll.Common\bin\Debug\System.Drawing.Primitives.dll
